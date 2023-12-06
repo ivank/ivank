@@ -2,7 +2,7 @@
 
 I'm Ivan Kerin, a software developer.
 
-I few open source projects I'm happy to mention I've authored
+A few open source projects I'm happy to mention I've authored
 
 - [🦝 calendar-todo](https://github.com/ivank/calendar-todo) - A quick little project to test out what's new in backend/frontend land - fly.io, prisma, fastify, rtk-query, vite, etc.
 - [:star: potygen](https://github.com/ivank/potygen) - an sql parser written in pure TypeScript, as well as prettier extension for automatic formatting of queries, vscode for intellisense, allowing you to skip ORMs and happily write raw SQL queries, taking care of validation and TS type generation for any level of complexity. Nested queries, complex joins and common table expressions are supported.
