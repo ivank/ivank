@@ -10,6 +10,7 @@ A few open source projects I'm happy to mention I've authored
 - [👁️‍🗨️ rd-parse](https://github.com/ivank/rd-parse) - recursive decent parser library for parsing various syntaxes into AST. Powerful enough to write grammar for SQL.
 - [🍦vanilla-teuxdeux](https://github.com/ivank/vanilla-teuxdeux) - a case study of how one could write a full featured frontend single page app without any frameworks or dependencies. With virtual dom, redux and nice code separation.
 - [🤓 rpsls](https://github.com/ivank/rpsls) - Rock Paper Scissors Lizard Spock - A React & Redux app, built with create-react-app and hosted at firebase. It was made to practice those technologies in a greenfield project and as a task given in a recruitment process.
+- [🚀 rocketsized](https://github.com/ivank/rocketsized) - A database of Orbital Launch Vehicles, used as a playground for me to learn elixir and phoenix. Going https://rocketsized.com/ allows one to generate a poster of all the rockets in the world, compared by size.
 
 ### My status
 
