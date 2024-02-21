@@ -13,4 +13,4 @@ A few open source projects I'm happy to mention I've authored
 
 ### My status
 
-Currently residing in India and on the hunt for suitable employers. 
+Currently residing in India and working for [Fluent Health](https://fluentinhealth.com). 
